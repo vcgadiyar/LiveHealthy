@@ -4,5 +4,14 @@
     <string name="app_name">LiveHealthyProject</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    
+    <string name="enter_age">Enter your age</string>
+    <string name="enter_last">Enter last name</string>
+    <string name="kgs">Enter weight in kgs</string>
+    <string name="feet">feet</string>
+    <string name="inches">inches</string>
+    <string name="first">Enter first name</string>
+    
+    
 
 </resources>
